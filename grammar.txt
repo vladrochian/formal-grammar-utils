@@ -1,0 +1,14 @@
+S
+ABCDE
+ab
+S=ABC
+AB=aAD|bAE|
+DC=BaC
+EC=BbC
+Da=aD
+Db=bD
+Ea=aE
+Eb=bE
+C=
+aB=Ba
+bB=Bb
